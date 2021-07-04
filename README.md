@@ -5,7 +5,7 @@
 |User| Trabajo|
 |:---:|:---:|
 |@nelsonalejandrov| Project manager, definir tareas, seleccionar y cargar base de datos, análisis exploratorio de datos y predicciones.|
-|@CAMM961001 | Describir base de datos, modelo de regresión lineal y presentación. |
+|@CAMM961001 | Describir base de datos, modelo de regresión lineal, interpretación resultados, presentación. |
 
 **Referencias:** 
 
