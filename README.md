@@ -7,6 +7,17 @@
 |@nelsonalejandrov| Project manager, definir tareas, seleccionar y cargar base de datos, análisis exploratorio de datos y predicciones.|
 |@CAMM961001 | Describir base de datos, modelo de regresión lineal, interpretación resultados, presentación. |
 
+**Paquetes utilizados:**
++ numpy
++ pandas
++ seaborn
++ matplotlib
++ statsmodels
+
+**Liga a la presentación:**
+[Presentación.](https://docs.google.com/presentation/d/1HaOhD2BE1csEYwcdXCR9OYvc1SZuK9Pt0pqrYiagNZ8/edit#slide=id.p)
+
+
 **Base de datos:**
 <br>[Base de datos utilizada.](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009?select=winequality-red.csv)
 
